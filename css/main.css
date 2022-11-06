@@ -1,0 +1,26 @@
+body {
+  background-color: #bbb;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px; 
+}
+
+header {
+  color: #ab2328;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgba(138,141,74,0.8);
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 12px;
+  border-bottom: 6px solid rgb(138,141,74);
+}
+
+#title {
+  background-color: #eee;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  border-top: 4px solid #eee;
+}
